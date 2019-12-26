@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: pp Project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Arif Shaikh
+Implementation-Vendor-Id: com.pp
+Build-Jdk: 1.8.0_191
+Implementation-URL: http://projects.spring.io/spring-boot/Spring_Boot_
+ PP/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
